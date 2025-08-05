@@ -55,8 +55,7 @@ DOI: 10.1007/s10334-025-01284-w
 
 ## 🛡 License
 
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this code for **academic and non-commercial research purposes**, with proper attribution.
+This project is licensed under the MIT License  **with the restriction** that you are free to use, modify, and distribute this code for **academic and non-commercial research purposes**, with proper attribution.
 
 > **Note**: This license does **not** grant any rights under any patent.  
 > The underlying method is protected by **US Patent No. US9835708B2 **.  
