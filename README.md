@@ -61,9 +61,16 @@ This project is licensed under the MIT License  **with the restriction** that yo
 > The underlying method is protected by **US Patent No. US9835708B2 **.  
 > For patent licensing (especially for commercial use), please contact the corresponding author.
 
+## 🔏 Patent Notice
+
+The reconstruction algorithm implemented in this repository is based on subject matter covered by **US Patent No. US9835708B2**, owned by Abbas Nasiraei Moghaddam.  
+The code provided here is intended for demonstration and academic use only. **No rights under the patent are granted through this repository.**  
+For **commercial use** or the **distribution of derivative implementations**, a separate license may be required.  
+For licensing inquiries, please contact the corresponding author.
+
 ## 📬 Contact
 For questions or collaboration inquiries, please contact:
-nasiraei@aut.ac.ir
+nasiraei@aut.ac.ir or abbas.nasiraei@gmail.com
 
 ### 🔧 Example compilation:
 
