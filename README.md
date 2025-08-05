@@ -33,6 +33,39 @@ The PFT approach avoids interpolation in k-space by working in native polar coor
 - Standard libraries only (no external dependencies)
 - A C++ build environment (e.g., `g++`, `clang`, or MSVC)
 
+
+## 🚀 Usage
+This standalone module implements the Hankel transform component of PFT reconstruction. It does not perform full image reconstruction on its own. Instead, it can be:
+
+Reviewed to understand the Hankel transform algorithm
+
+Integrated into your own reconstruction pipeline
+
+Adapted for use in other non-Cartesian MRI applications
+
+✍️ Note: The current version is lightly documented. Additional comments and examples will be added in future updates.
+
+## 📜 Citation
+If you use this code in your research or build upon it, please cite the following:
+
+Fatemeh Rastegar Jooybari, Ali Aghaeifar, Elham Mohammadi, Klaus Scheffler, Abbas Nasiraei Moghaddam
+Polar Fourier Transform in Practice: Its Efficiency and Characteristics in Reconstructing Radially Acquired MRI Images.
+MAGMA – Magnetic Resonance Materials in Physics, Biology and Medicine, 2025.
+DOI: 10.1007/s10334-025-01284-w
+
+## 🛡 License
+
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this code for **academic and non-commercial research purposes**, with proper attribution.
+
+> **Note**: This license does **not** grant any rights under any patent.  
+> The underlying method is protected by **US Patent No. US9835708B2 **.  
+> For patent licensing (especially for commercial use), please contact the corresponding author.
+
+## 📬 Contact
+For questions or collaboration inquiries, please contact:
+nasiraei@aut.ac.ir
+
 ### 🔧 Example compilation:
 
 ```bash
