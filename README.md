@@ -72,7 +72,3 @@ For licensing inquiries, please contact the corresponding author.
 For questions or collaboration inquiries, please contact:
 nasiraei@aut.ac.ir or abbas.nasiraei@gmail.com
 
-### 🔧 Example compilation:
-
-```bash
-g++ -std=c++17 -O3 pft_core.cpp -o pft_core
